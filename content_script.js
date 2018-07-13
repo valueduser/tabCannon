@@ -9,7 +9,7 @@ function openAllHyperLinks(){
     }
   }
 
-  for(let i = 5; i-->0;){
+  for(let i = urls.length; i-->0;){
     window.open(urls[i], '_blank');
   }
 }
