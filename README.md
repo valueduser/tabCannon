@@ -15,5 +15,9 @@ OR:
   - Enable developer mode
   - Drag and drop the .crx file onto the Chrome window.
 
+
+![Demo Gif](https://github.com/valueduser/tabCannon/blob/master/demo.gif)
+
+
 Icons made by [Freepik](http://www.freepik.com) from [Flaticon](www.flaticon.com)
 is licensed by [Creative Commons BY 3.0](http://creativecommons.org/licenses/by/3.0/) CC 3.0 BY
