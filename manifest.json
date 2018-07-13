@@ -5,11 +5,9 @@
     "version": "0.0.1",
     "description": "Loads all hyperlinks on the current page as new tabs.",
     "browser_action": {
-        "default_icon": "imgs/icon16.png"
+        "default_icon": "imgs/icon64.png"
     },
-    "icons": {  "128" : "imgs/icon128.png",
-                "48"  : "imgs/icon48.png",
-                "16"  : "imgs/icon16.png"
+    "icons": {  "64" : "imgs/icon64.png"
     },
     "background":{
         "scripts": ["background.js"],
